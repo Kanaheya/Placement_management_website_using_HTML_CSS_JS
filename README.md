@@ -1,0 +1,2 @@
+# Placement_management_website_using_HTML_CSS_JS
+ In today’s competitive educational landscape, the process of managing student placements has become increasingly complex. Institutions need efficient systems to handle various aspects of placements, including student registration, resume submission, company interactions, interview scheduling, and result tracking. To address these needs, we present our Placement Management Website, a comprehensive web application designed using HTML, CSS, and JavaScript.
